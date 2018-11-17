@@ -10,6 +10,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableAutoConfiguration
 @EnableSwagger2
 @ComponentScan(basePackages = { "com.primeton.spring_root_mybatis" })
+//aiyouwocao 
 public class Application {
 
 	public static void main(String[] args) {
