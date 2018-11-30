@@ -1,0 +1,14 @@
+2018-11-18 15:13:03,284 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user 
+2018-11-18 15:13:03,300 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-11-18 15:13:03,303 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-11-18 15:13:04,667 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user 
+2018-11-18 15:13:04,668 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-11-18 15:13:04,670 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-11-18 15:13:06,115 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user 
+2018-11-18 15:13:06,116 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-11-18 15:13:06,118 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-11-18 15:13:07,551 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user 
+2018-11-18 15:13:07,552 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-11-18 15:13:07,555 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-11-18 15:13:10,274 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user 
+2018-11-18 15:13:10,276 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 

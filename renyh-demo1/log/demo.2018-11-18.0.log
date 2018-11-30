@@ -1,0 +1,7 @@
+2018-11-18 15:07:36,180 INFO (StartupInfoLogger.java:48)- Starting Application on DESKTOP-FIHL2MF with PID 12844 (C:\E\eclipse-git\renyh-demo1\target\classes started by 任宇航 in C:\E\eclipse-git\renyh-demo1)
+2018-11-18 15:07:36,186 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2018-11-18 15:07:36,186 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-11-18 15:08:31,487 INFO (StartupInfoLogger.java:48)- Starting Application on DESKTOP-FIHL2MF with PID 15604 (C:\E\eclipse-git\renyh-demo1\target\classes started by 任宇航 in C:\E\eclipse-git\renyh-demo1)
+2018-11-18 15:08:31,491 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2018-11-18 15:08:31,493 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-11-18 15:08:38,154 INFO (StartupInfoLogger.java:57)- Started Application in 7.375 seconds (JVM running for 8.321)

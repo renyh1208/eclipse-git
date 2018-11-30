@@ -1,0 +1,4 @@
+2018-11-18 15:13:10,278 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-11-18 15:13:12,424 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select * from user 
+2018-11-18 15:13:12,426 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-11-18 15:13:12,428 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
